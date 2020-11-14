@@ -1,0 +1,5 @@
+numpy=1.18.5
+matplotlib=3.1.2
+# tensorflow=2.0.0 for mac without gpu
+tensorflow=2.2.0
+scikit-learn=0.23.2

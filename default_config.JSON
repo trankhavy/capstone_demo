@@ -1,0 +1,7 @@
+{"dataset_dir": "/Users/vytran/PycharmProjects/capstone/data",
+  "results_dir": "/Users/vytran/PycharmProjects/capstone/results",
+  "logs_dir": "/Users/vytran/PycharmProjects/capstone/logs",
+  "classes": ["exudates", "hemorrhage","microaneurysms"],
+  "img_size": 512,
+  "batch_size": 2
+}
